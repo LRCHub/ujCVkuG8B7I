@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Who What Who What",
+  "base_artist": "Ling tosite sigure",
+  "createdAt": "2026-02-20T07:44:20.104927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Who What Who What",
+      "artist": "凛として時雨",
+      "has_synced": true,
+      "path": "select/01_Who_What_Who_What_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Who What Who What",
+      "artist": "Ling Tosite Sigure",
+      "has_synced": true,
+      "path": "select/02_Who_What_Who_What_Ling_Tosite_Sigure.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Who What Who What",
+      "artist": "Ling tosite sigure",
+      "has_synced": false,
+      "path": "select/03_Who_What_Who_What_Ling_tosite_sigure.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Who What Who What",
+      "artist": "Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/04_Who_What_Who_What_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Who What Who What (Movie Edit)",
+      "artist": "Ling Tosite Sigure",
+      "has_synced": true,
+      "path": "select/05_Who_What_Who_What_(Movie_Edit)_Ling_Tosite_Sigure.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Who What Who What -Movie edit- (“劇場版PSYCHO-PASS サイコパス”主題歌)",
+      "artist": "凛として時雨",
+      "has_synced": true,
+      "path": "select/06_Who_What_Who_What_-Movie_edit-_(“劇場版PSYCHO-PASS_サイコパス”主題歌)_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Who What Who What",
+      "artist": "Masayuki Nakano",
+      "has_synced": true,
+      "path": "select/07_Who_What_Who_What_Masayuki_Nakano.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Who What Who What - Remixed by 中野雅之(BOOM BOOM SATELLITES)",
+      "artist": "凛として時雨",
+      "has_synced": true,
+      "path": "select/08_Who_What_Who_What_-_Remixed_by_中野雅之(BOOM_BOOM_SATELLITES)_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Who What Who What - Remixed by Masayuki Nakano(BOOM BOOM SATELLITES)",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/09_Who_What_Who_What_-_Remixed_by_Masayuki_Nakano(BOOM_BOOM_SATELLITES)_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Who What Who What",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_01_Who_What_Who_What_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Who What Who What",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_02_Who_What_Who_What_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Who What Who What",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_03_Who_What_Who_What_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Who What Who What",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_04_Who_What_Who_What_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Who What Who What",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_05_Who_What_Who_What_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Who What Who What(Movie edit|bonus track)",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_06_Who_What_Who_What(Movie_edit_bonus_track)_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Who What Who What (Movie Mix)",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_07_Who_What_Who_What_(Movie_Mix)_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Who What Who What(Movie edit)",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_08_Who_What_Who_What(Movie_edit)_凛として時雨.txt"
+    }
+  ]
+}
